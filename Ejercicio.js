@@ -11,6 +11,7 @@ let cities = ["miami", "barcelona", "madrid", "amsterdam", "berlin", "sao paulo"
 
 
 
+
 //ES6 =>
 
 
